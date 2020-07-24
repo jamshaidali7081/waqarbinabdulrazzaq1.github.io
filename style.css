@@ -1,0 +1,9 @@
+body{margin: 0;}
+p{margin: 0;}
+h1{font font-size: 20px;}
+.header{margin-bottom: 30px;}
+.border{border:6px solid #16192F;}
+.text-center{text-align: center;}
+.content-center{width: 500px;margin-left: auto;}
+.table{width: 500px;margin-right: auto;margin-left: auto;}
+.footer{margin-top: 30px;}
